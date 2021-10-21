@@ -1,0 +1,10 @@
+Hello
+This is our Text File
+Read this line by line
+ip=5;id=3;il=20;
+ip=52;id=32;il=30;
+ip=51;id=43;il=60;
+ip=55;id=13;il=70;
+ip=57;id=32;il=20;
+ip=58;id=37;il=10;
+ip=59;id=5;il=100;
